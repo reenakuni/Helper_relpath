@@ -1,0 +1,5 @@
+﻿2023-08-01 14:02:08.612 -0600	START		Running calling_helper.script
+2023-08-01 14:02:08.687 -0600	Log		calling helper	1	on_calling_helper	calling_helper.script
+2023-08-01 14:02:08.887 -0600	EndTestCase		(Duration:"0.272286", Errors:"1", Exceptions:"0", StartTime:"2023-08-01 14:02:08 -0600", Successes:"0", TestCase:"calling_helper.script", Warnings:"0")
+2023-08-01 14:02:09.035 -0600	FAILURE	Screen_Error.png	STUnknownMessage: ERROR: No Such Command: 'helper1' -- Execution Time 0:00:00 calling_helper.script
+2023-08-01 14:02:09.642 -0600	FAILURE	Screen_Error_Web.png	STUnknownMessage: ERROR: No Such Command: 'helper1' -- Execution Time 0:00:00 calling_helper.script

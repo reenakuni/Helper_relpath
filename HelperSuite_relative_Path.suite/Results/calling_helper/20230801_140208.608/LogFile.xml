@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="calling_helper_script" package="HelperSuite_relative_Path.suite" timestamp="2023-08-01 14:02:08.608 -0600"
+ tests="1"  failures="2" errors="0" time="0.278104">
+  <properties>
+   <property name="RunDate" value="2023-08-01 14:02:08.608 -0600"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="calling_helper.script" assertions="1" status="failure"  time="0.272286">
+    <failure type="FAILURE" message="STUnknownMessage: ERROR: No Such Command: &apos;helper1&apos; -- Execution Time 0:00:00 calling_helper.script" />
+    <failure type="FAILURE" message="STUnknownMessage: ERROR: No Such Command: &apos;helper1&apos; -- Execution Time 0:00:00 calling_helper.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

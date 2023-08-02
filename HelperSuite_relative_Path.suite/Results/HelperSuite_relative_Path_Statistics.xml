@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<statistics>
+ <script name="Untitled">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>2</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2023-08-01 13:38:41 -0600</FirstRun>
+  <LastRun>2023-08-01 14:36:45 -0600</LastRun>
+  <TotalTimeOnSuccess>2.200066</TotalTimeOnSuccess>
+ </script>
+ <script name="calling_helper">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>5</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2023-07-28 14:53:31 -0600</FirstRun>
+  <LastRun>2023-08-01 14:02:08 -0600</LastRun>
+  <TotalTimeOnSuccess>0.611169</TotalTimeOnSuccess>
+ </script>
+</statistics>

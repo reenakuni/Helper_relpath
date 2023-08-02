@@ -1,0 +1,28 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running Untitled.script",
+      "timestamp" : "2023-07-28 14:53:31.375 -0600"
+    },
+    {
+      "handlerName" : "on_untitled",
+      "message" : "calling helper",
+      "timestamp" : "2023-07-28 14:53:31.450 -0600",
+      "identifier" : "Log",
+      "scriptName" : "Untitled.script",
+      "handlerLine" : 1
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"0.160037\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2023-07-28 14:53:31 -0600\", Successes:\"1\", TestCase:\"Untitled.script\", Warnings:\"0\")",
+      "timestamp" : "2023-07-28 14:53:31.538 -0600"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:00 Untitled.script",
+      "timestamp" : "2023-07-28 14:53:31.557 -0600"
+    }
+  ],
+  "createdTimestamp" : "2023-07-28 14:53:31.377 -0600"
+}

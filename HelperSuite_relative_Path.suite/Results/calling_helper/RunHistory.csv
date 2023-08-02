@@ -1,0 +1,6 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2023-07-28 14:53:31.370 -0600,"Success",0:00:00,0,0,0,"20230728_145331.370/LogFile.txt","","",1
+2023-07-28 14:53:37.870 -0600,"Success",0:00:00,0,0,0,"20230728_145337.870/LogFile.txt","","",1
+2023-07-28 14:53:55.690 -0600,"Success",0:00:00,0,0,0,"20230728_145355.690/LogFile.txt","","",1
+2023-08-01 09:18:45.626 -0600,"Success",0:00:00,0,0,0,"20230801_091845.626/LogFile.txt","","",1
+2023-08-01 14:02:08.608 -0600,"Failure",0:00:00,1,0,0,"20230801_140208.608/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'helper1'",0

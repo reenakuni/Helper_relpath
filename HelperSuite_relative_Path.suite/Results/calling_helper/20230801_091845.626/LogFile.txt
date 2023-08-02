@@ -1,0 +1,6 @@
+﻿2023-08-01 09:18:45.629 -0600	START		Running calling_helper.script
+2023-08-01 09:18:45.704 -0600	Log		calling helper	1	on_calling_helper	calling_helper.script
+2023-08-01 09:18:45.749 -0600	Log		calling helper suite worked	1	on_helper1	/Users/reenkuni/Documents/tt.suite/Scripts/helper1.script
+2023-08-01 09:18:45.782 -0600	Log		this helper is not in Suite root	1	on_testhelper_abs	/Users/reenkuni/Desktop/Helper_abs.suite/Scripts/testhelper_abs.script
+2023-08-01 09:18:45.791 -0600	EndTestCase		(Duration:"0.159869", Errors:"0", Exceptions:"0", StartTime:"2023-08-01 09:18:45 -0600", Successes:"1", TestCase:"calling_helper.script", Warnings:"0")
+2023-08-01 09:18:45.805 -0600	SUCCESS		Execution Time 0:00:00 calling_helper.script

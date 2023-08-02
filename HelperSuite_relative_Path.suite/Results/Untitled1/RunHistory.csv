@@ -1,0 +1,3 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2023-07-19 13:46:29.155 -0600,"Success",0:00:00,0,0,0,"20230719_134629.155/LogFile.txt","","",1
+2023-07-19 13:52:00.534 -0600,"Success",0:00:00,0,0,0,"20230719_135200.534/LogFile.txt","","",1

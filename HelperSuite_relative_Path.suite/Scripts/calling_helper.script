@@ -1,0 +1,5 @@
+﻿log "calling helper"
+//Run "/Users/reenkuni/Documents/tt.suite/Scripts/helper1"
+helper1
+testhelper_abs
+

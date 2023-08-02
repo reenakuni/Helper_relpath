@@ -1,0 +1,5 @@
+﻿2023-07-28 14:53:37.874 -0600	START		Running Untitled.script
+2023-07-28 14:53:37.934 -0600	Log		calling helper	1	on_untitled	Untitled.script
+2023-07-28 14:53:37.991 -0600	Log		calling helper suite worked	1	on_helper1	/Users/reenkuni/Documents/tt.suite/Scripts/helper1.script
+2023-07-28 14:53:38.002 -0600	EndTestCase		(Duration:"0.125472", Errors:"0", Exceptions:"0", StartTime:"2023-07-28 14:53:37 -0600", Successes:"1", TestCase:"Untitled.script", Warnings:"0")
+2023-07-28 14:53:38.023 -0600	SUCCESS		Execution Time 0:00:00 Untitled.script

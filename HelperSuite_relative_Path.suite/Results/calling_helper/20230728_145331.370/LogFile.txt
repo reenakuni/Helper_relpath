@@ -1,0 +1,4 @@
+﻿2023-07-28 14:53:31.375 -0600	START		Running Untitled.script
+2023-07-28 14:53:31.450 -0600	Log		calling helper	1	on_untitled	Untitled.script
+2023-07-28 14:53:31.538 -0600	EndTestCase		(Duration:"0.160037", Errors:"0", Exceptions:"0", StartTime:"2023-07-28 14:53:31 -0600", Successes:"1", TestCase:"Untitled.script", Warnings:"0")
+2023-07-28 14:53:31.557 -0600	SUCCESS		Execution Time 0:00:00 Untitled.script

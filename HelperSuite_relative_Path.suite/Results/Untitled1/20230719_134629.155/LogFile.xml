@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Untitled1_script" package="HelperSuite_relative_Path.suite" timestamp="2023-07-19 13:46:29.155 -0600"
+ tests="1"  failures="0" errors="0" time="0.246535">
+  <properties>
+   <property name="RunDate" value="2023-07-19 13:46:29.155 -0600"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="Untitled1.script" assertions="1" status="success"  time="0.236179">
+  </testcase>
+ </testsuite>
+</testsuites>
