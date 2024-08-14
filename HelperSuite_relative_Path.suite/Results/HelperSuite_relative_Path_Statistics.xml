@@ -1,5 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8" ?>
 <statistics>
+ <script name="test">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2024-08-13 23:04:58 -0600</FirstRun>
+  <LastRun>2024-08-13 23:04:58 -0600</LastRun>
+  <TotalTimeOnSuccess>0.140000</TotalTimeOnSuccess>
+ </script>
  <script name="calling_helper">
   <LastStatus>Failure</LastStatus>
   <NumberOfRuns>5</NumberOfRuns>

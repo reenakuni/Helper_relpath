@@ -1,3 +1,0 @@
-﻿2023-07-19 13:46:29.159 -0600	START		Running Untitled1.script
-2023-07-19 13:46:29.403 -0600	EndTestCase		(Duration:"0.236179", Errors:"0", Exceptions:"0", StartTime:"2023-07-19 13:46:29 -0600", Successes:"1", TestCase:"Untitled1.script", Warnings:"0")
-2023-07-19 13:46:29.413 -0600	SUCCESS		Execution Time 0:00:00 Untitled1.script
