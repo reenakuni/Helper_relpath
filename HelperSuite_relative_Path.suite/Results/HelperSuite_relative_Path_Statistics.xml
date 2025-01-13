@@ -1,13 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" ?>
 <statistics>
- <script name="test">
-  <LastStatus>Success</LastStatus>
-  <NumberOfRuns>1</NumberOfRuns>
-  <NumberOfFails>0</NumberOfFails>
-  <FirstRun>2024-08-13 23:04:58 -0600</FirstRun>
-  <LastRun>2024-08-13 23:04:58 -0600</LastRun>
-  <TotalTimeOnSuccess>0.140000</TotalTimeOnSuccess>
- </script>
  <script name="calling_helper">
   <LastStatus>Failure</LastStatus>
   <NumberOfRuns>5</NumberOfRuns>
@@ -23,5 +15,13 @@
   <FirstRun>2023-08-01 13:38:41 -0600</FirstRun>
   <LastRun>2024-08-13 17:28:04 -0600</LastRun>
   <TotalTimeOnSuccess>2.278464</TotalTimeOnSuccess>
+ </script>
+ <script name="test">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>4</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2024-08-13 23:04:58 -0600</FirstRun>
+  <LastRun>2025-01-13 16:18:49 -0700</LastRun>
+  <TotalTimeOnSuccess>0.325000</TotalTimeOnSuccess>
  </script>
 </statistics>
